@@ -1,5 +1,5 @@
 const image = document.querySelector('.lampadina');
-const button = document.getElementById('switchButton');
+const button = document.getElementById('pulsante');
 
 
 const img1 = './img/white_lamp.png'; 
